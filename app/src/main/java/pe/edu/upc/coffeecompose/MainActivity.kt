@@ -78,7 +78,6 @@ fun CoffeeList() {
                 modifier = Modifier.weight(0.5f)
             ) { page ->
 
-
                 Row(
                     horizontalArrangement = Arrangement.Center,
                     modifier = Modifier
@@ -96,7 +95,6 @@ fun CoffeeList() {
 
                     )
                 }
-
 
             }
 
