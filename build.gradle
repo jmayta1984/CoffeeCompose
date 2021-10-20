@@ -24,7 +24,7 @@ buildscript {
         // compose image loading
         coil_version = '1.4.0'
 
-        // compose system ui
+        // compose system ui & pager
         accompanist_version = '0.19.0'
 
         // coroutines

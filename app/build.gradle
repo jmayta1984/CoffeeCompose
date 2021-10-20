@@ -72,8 +72,9 @@ dependencies {
     // compose image loading
     implementation "io.coil-kt:coil-compose:$coil_version"
 
-    // compose system ui
+    // compose system ui & pager
     implementation "com.google.accompanist:accompanist-systemuicontroller:$accompanist_version"
+    implementation "com.google.accompanist:accompanist-pager:$accompanist_version"
 
     // coroutines
     implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:$coroutines_version"
